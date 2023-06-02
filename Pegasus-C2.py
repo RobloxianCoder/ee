@@ -135,4 +135,4 @@ async def on_message(message):
         embed.set_image(url="attachment://screenshot.png")
         await message.reply(embed=embed, file=file)
 
-client.run('MTExNDIzNTYxMTI5ODE0MDI5MA.GkpA3E.qOI9FWThxF0wfJtIIQLZ502Vc1KMmZ3H61FBJ4')
+client.run('sus')
